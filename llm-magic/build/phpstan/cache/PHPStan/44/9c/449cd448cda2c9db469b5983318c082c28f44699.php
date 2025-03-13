@@ -2641,7 +2641,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/Users/mat/Projects/magic/llm-magic/src/Magic/Extraction/Strategies/Concerns/SupportsConcurrency.php' => 
     array (
-      0 => 'ec2a06f278d4d72b557af57c821c19b2183a7e5e',
+      0 => 'cd95d5a44561063f117c976f6bae0648b3cbdbd5',
       1 => 
       array (
         0 => 'mateffy\\magic\\extraction\\strategies\\concerns\\supportsconcurrency',
