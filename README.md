@@ -1,6 +1,6 @@
 # Bachelor Thesis – Lukas Mateffy
 
-> Abgabedatum: 13.03.2025
+> Date of submission: 13.03.2025
 
 ## Abstract
 
@@ -8,7 +8,7 @@ In an era defined by extensive digitalization, the challenge of efficiently extr
 
 ## Thesis
 
-The thesis is available [here](./Bachelor Thesis – Lukas Mateffy.pdf).
+The thesis is available [here](./Thesis.pdf).
 
 This repository contains the source code for the two resulting open-source projects in the state they were during submission.
 
