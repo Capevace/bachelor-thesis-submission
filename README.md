@@ -14,8 +14,8 @@ This repository contains the source code for the two resulting open-source proje
 
 Continously updated versions of the projects can be found in their respective repositories:
 
-[Data Wizard](https://github.com/Capevace/data-wizard)
-[LLM Magic](https://github.com/Capevace/llm-magic)
+- [Data Wizard](https://github.com/Capevace/data-wizard)
+- [LLM Magic](https://github.com/Capevace/llm-magic)
 
 A prebuilt docker container can be found one the [Docker Hub (mateffy/data-wizard)](https://hub.docker.com/r/mateffy/data-wizard).
 This container is continuously updated with the latest changes. The tag `mateffy/data-wizard:submission` contains the state of the project at the time of submission.
